@@ -1,0 +1,3 @@
+echo "Start deploying"
+cp src/index.php /var/www/html/todos/index.php
+echo "End deploying"
